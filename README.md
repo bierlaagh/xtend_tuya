@@ -3,7 +3,6 @@ HomeAssistant eXtend Tuya's integration
 all credits to @azerty9971 https://github.com/azerty9971
 
 
-
 # Current status
 The custom component is working as expected
 

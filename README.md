@@ -4,7 +4,7 @@ all credits to @azerty9971 https://github.com/azerty9971
 
 
 # Current status
-The custom component is working as expected
+The custom component is working as expected (still work in progress though)
 
 # Purpose
 This Custom Integration is there to add the missing entities in Tuya's integration.<br/>

@@ -1,6 +1,6 @@
 # xtend_tuya
 HomeAssistant eXtend Tuya's integration
-all credits to @azerty9971
+all credits to @azerty9971 https://github.com/azerty9971
 
 
 

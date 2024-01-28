@@ -83,6 +83,7 @@ SWITCHES: dict[str, tuple[SwitchEntityDescription, ...]] = {
             key=DPCode.TOILET_NOTICE,
             translation_key="toilet_notice",
             entity_category=EntityCategory.CONFIG,
+            icon="mdi:toilet"
         ),
         SwitchEntityDescription(
             key=DPCode.NET_NOTICE,
@@ -93,6 +94,7 @@ SWITCHES: dict[str, tuple[SwitchEntityDescription, ...]] = {
             key=DPCode.CHILD_LOCK,
             translation_key="child_lock",
             entity_category=EntityCategory.CONFIG,
+            icon="mdi:human-child"
         ),
         SwitchEntityDescription(
             key=DPCode.CALIBRATION,

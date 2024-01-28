@@ -63,6 +63,7 @@ SWITCHES: dict[str, tuple[SwitchEntityDescription, ...]] = {
             key=DPCode.CLEAN_TASTE,
             translation_key="Clean_taste",
             entity_category=EntityCategory.CONFIG,
+            entity_registry_enabled_default=False,
         ),
         SwitchEntityDescription(
             key=DPCode.CLEAN_TASTE_SWITCH,
@@ -89,6 +90,7 @@ SWITCHES: dict[str, tuple[SwitchEntityDescription, ...]] = {
             key=DPCode.NET_NOTICE,
             translation_key="Net_notice",
             entity_category=EntityCategory.CONFIG,
+            entity_registry_enabled_default=False,
         ),
         SwitchEntityDescription(
             key=DPCode.CHILD_LOCK,
@@ -105,11 +107,13 @@ SWITCHES: dict[str, tuple[SwitchEntityDescription, ...]] = {
             key=DPCode.UNIT,
             translation_key="unit",
             entity_category=EntityCategory.CONFIG,
+            entity_registry_enabled_default=False,
         ),
         SwitchEntityDescription(
             key=DPCode.STORE_FULL_NOTIFY,
             translation_key="store_full_notify",
             entity_category=EntityCategory.CONFIG,
+            entity_registry_enabled_default=False,
         ),
         SwitchEntityDescription(
             key=DPCode.ODOURLESS,

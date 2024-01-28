@@ -1,5 +1,8 @@
 # xtend_tuya
 HomeAssistant eXtend Tuya's integration
+all credits to @azerty9971
+
+
 
 # Current status
 The custom component is working as expected
@@ -20,3 +23,6 @@ The fields don't have a text because the translations are missing but here is th
 
 # Usage
 Once installed, the base devices should have the new entities automatically added and they should be supported in the Energy dashboard for instance
+
+# this branch
+this branch is used to test the tuya cat litterbox 
